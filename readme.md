@@ -25,8 +25,6 @@ Copyright © Written by [Yariv Gilad](https://yarivgilad.com)
    from `_ ^ _ Stateful Bookstore _ ^ _`    
    to `<<<< Stateful Bookstore >>>>`
 
-5. Modify the `<TopBar>` component    
-   Make sure we can see its name in _`React-dev-tools`_ tab
 
                
 ```
