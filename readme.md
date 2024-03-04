@@ -10,7 +10,7 @@ Copyright © Written by [Yariv Gilad](https://yarivgilad.com)
 
 2. Refactor the `<App>` component
    move anything related to the counting books into the `<Books>` component
-   it should have its own state, along with its UI and the updating function.
+   it should have its own state, as well as its own UI.
 
 3. Create similar components to count `customrs` and `employees`.    
    (See the goal solution--screenshot.jpg in the project root)    
